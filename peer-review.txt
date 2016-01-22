@@ -1,0 +1,17 @@
+Is the Github documentation - commits and README - thorough and descriptive?
+  No README file. Could possibly use another commit or two?
+
+Is the code easy to read (good indentation, spacing, naming)?
+  Yes it was.
+
+Were branching and looping used effectively?
+  Looks good to us.
+
+Is the web page(s) styled using Bootstrap and CSS?
+  Bootstrap was used for the form. No CSS though.
+
+Is the site user-friendly?
+  It is. Could maybe fix how results are 'appended' without refreshing page.
+
+Do you have any additional constructive criticism or positive feedback to share?
+  Two of your spec tests do not pass. Maybe check to see if your code later broke them and remove them if they are not needed any longer.
